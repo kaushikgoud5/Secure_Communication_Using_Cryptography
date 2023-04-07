@@ -1,6 +1,8 @@
 # Secure_Communication_Using_Cryptography
 
 Installation
+
+Type this command on yoour local sysytem
   git clone https://github.com/kaushikgoud5/Secure_Communication_Using_Cryptography
   
   
